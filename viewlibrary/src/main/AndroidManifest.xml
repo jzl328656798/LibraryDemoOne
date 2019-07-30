@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="library.demo.viewlibrary">
+
+
+    <application>
+
+        <activity
+            android:name=".activity.PhoneVerifyCodeActivity"
+            android:screenOrientation="portrait" />
+
+    </application>
+
+</manifest>
