@@ -1,2 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.example.applibrary"/>
+    package="com.example.applibrary">
+
+    <application>
+
+        <activity
+            android:name=".test.AdapterTestActivity"
+            android:screenOrientation="portrait" />
+
+    </application>
+
+</manifest>

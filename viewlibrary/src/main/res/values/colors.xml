@@ -1,0 +1,54 @@
+<resources>
+
+
+    <color name="view_library_while">#FFFFFF</color>
+
+    <color name="color_B5A36A">#B5A36A</color>
+    <color name="color_8A1529">#8A1529</color>
+    <color name="color_C91C22">#8A1529</color>
+    <color name="color_00426B">#00426B</color>
+    <color name="color_00000000">#00000000</color>
+    <color name="color_8F8E94">#8F8E94</color>
+    <color name="color_C74D4D4D">#C74D4D4D</color>
+    <color name="color_007AFF">#007AFF</color>
+    <color name="color_14B5A36A">#14B5A36A</color>
+    <color name="color_26B5A36A">#26B5A36A</color>
+    <color name="color_15B5A36A">#15B5A36A</color>
+    <color name="color_32B5A36A">#32B5A36A</color>
+    <color name="color_66000000">#66000000</color>
+    <color name="color_BD9F64">#BD9F64</color>
+    <color name="color_CDB5A36A">#CDB5A36A</color>
+    <color name="color_252F32">#252F32</color>
+    <color name="color_F3F1EE">#F3F1EE</color>
+    <color name="color_8B8681">#8B8681</color>
+    <color name="color_50000000">#50000000</color>
+    <color name="color_013c9e">#013c9e</color>
+    <color name="color_969696">#969696</color>
+    <color name="color_efefef">#efefef</color>
+    <color name="color_d3d3d3">#d3d3d3</color>
+    <color name="color_473E36">#473E36</color>
+    <color name="color_304B4B4B">#504B4B4B</color>
+    <color name="cadillac_text_color_red">#8a1529</color>
+    <color name="cadillac_text_color_grey1">#a7a7a7</color>
+    <color name="cadillac_viewfinder_mask">#60000000</color>
+    <color name="color_01000000">#01000000</color>
+
+
+
+    <color name="bg_content">#FFFFFF</color>
+    <color name="ft_deep_yellow">#b5a36a</color>
+    <color name="bg_deep_yellow">#b5a36a</color>
+    <color name="ft_light_black">#C8C8C8</color>
+    <color name="bg_light_black">#C8C8C8</color>
+    <color name="ft_deep_dark">#787878</color>
+    <color name="bg_dark">#f9f8f3</color>
+    <color name="ft_dark">#4B4B4B</color>
+    <color name="bg_text_hint">#C8C8C8</color>
+    <color name="bg_line_v_gray_dark">#1fb5a36a</color>
+    <color name="bg_line_gray_dark">#f0ece1</color>
+    <color name="bg_line_gray">#f6f3ec</color>
+    <color name="bg_line_v_gray">#c8c8c8</color>
+    <color name="bg_dark_pressed">#b5a36a</color>
+
+
+</resources>
