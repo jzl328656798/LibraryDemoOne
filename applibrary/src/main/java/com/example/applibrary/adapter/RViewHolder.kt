@@ -21,13 +21,7 @@ class RViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
 
     companion object {
         fun createViewHolder(context: Context, parent: ViewGroup, layoutId: Int): RViewHolder {
-            return RViewHolder(
-                LayoutInflater.from(context).inflate(
-                    layoutId,
-                    parent,
-                    false
-                )
-            )
+            return RViewHolder(LayoutInflater.from(context).inflate(layoutId, parent, false))
         }
     }
 
