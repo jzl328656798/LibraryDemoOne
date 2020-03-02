@@ -23,7 +23,7 @@ class Activity1 : AppCompatActivity() {
     }
 
     private fun test1(){
-
+        // test
     }
 
     override fun onWindowFocusChanged(hasFocus: Boolean) {
