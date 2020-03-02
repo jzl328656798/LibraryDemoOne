@@ -19,8 +19,12 @@ class Activity1 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(library.demo.one.R.layout.activity1)
+        test1()
     }
 
+    private fun test1(){
+
+    }
 
     override fun onWindowFocusChanged(hasFocus: Boolean) {
         super.onWindowFocusChanged(hasFocus)
