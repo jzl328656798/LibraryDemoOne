@@ -71,31 +71,97 @@
 
 
     <LinearLayout
-        android:background="@mipmap/club_ticket_past_small"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
 
-        <TextView
-            android:paddingTop="6.5dp"
-            android:paddingStart="3.5dp"
-            android:textColor="@color/view_library_while"
-            android:textSize="10sp"
-            android:rotation="-45"
-            android:text="优惠5"
-            android:layout_width="42dp"
-            android:layout_height="42dp" />
+        <Button
+            android:id="@+id/btn_9"
+            android:text="test9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_10"
+            android:text="test10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_11"
+            android:text="test11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_12"
+            android:text="test12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
 
     </LinearLayout>
 
-    <library.demo.viewlibrary.italic.view.ItalicTextView
-        app:italicMode="left_triangle"
-        app:italicTextSize="10sp"
-        app:italicLength="21dp"
-        app:italicBackgroundColor="@color/cadillac_text_color_red"
-        app:italicTextColor="@color/bg_content"
-        app:italicText="优惠1"
-        android:layout_width="42dp"
-        android:layout_height="42dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_13"
+            android:text="test13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_14"
+            android:text="test13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_15"
+            android:text="test14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_16"
+            android:text="test15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_17"
+            android:text="test17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_18"
+            android:text="test18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_19"
+            android:text="test19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_20"
+            android:text="test20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
 
 
 </LinearLayout>
